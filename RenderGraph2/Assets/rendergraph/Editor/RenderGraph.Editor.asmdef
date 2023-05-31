@@ -1,0 +1,19 @@
+{
+    "name": "RenderGraph.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e944875c6e46c3c408fa3622780bc5ba",
+        "GUID:df380645f10b7bc4b97d4f5eb6303d95"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

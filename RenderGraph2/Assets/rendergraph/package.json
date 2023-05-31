@@ -1,0 +1,12 @@
+{
+    "name": "com.colorful.rendergraph",
+    "version": "0.1.0",
+    "description": " A Render Graph based on unity Render Graph",
+    "displayName": "Render Graph",
+    "unity": "2021.2",
+    "unityRelease": "0b1",
+    "dependencies": {
+      "com.unity.render-pipelines.core": "12.1.5",
+      "com.unity.mathematics": "1.2.1"
+    }
+  } 
